@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  testModule
+//  IdCardRecognition
 //
-//  Created by 汤义 on 2018/1/16.
+//  Created by 汤义 on 2018/1/5.
 //  Copyright © 2018年 汤义. All rights reserved.
 //
 
